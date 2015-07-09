@@ -11,7 +11,7 @@ module Star_Wars
 
 # This is yoour first option, answering (y) or (n) will take the user to the next set of ooptions while (a) ends the game
   def display_intro
-    puts "You've woken up to find yourself in a med. Something speaks as you're vision begins to
+    puts "You've woken up to find yourself in a med bay. Something speaks as you're vision begins to
     come back. 'Hello, I'm C-3PO and you're on the Millenium Falcon. It appears your vitals
     have stabilized. Do you remember anything?'"
     puts
